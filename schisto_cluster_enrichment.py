@@ -20,22 +20,22 @@ gene_count = 0
 for x in cl.readlines():
     x = x.rstrip()
     v = x.split(',')
+    if v[0] == 'gene':
+        continue
     v[6] = v[6].replace('"', '')
     v[0] = v[0].replace('"', '')
     if len(v) < 8:
         continue
     # Exclude markers not passing thresholds
-    if float(v[2]) < logfc_threshold:
+    if float(v[3]) < logfc_threshold:
         continue
-    if float(v[3]) < min_pct:
+    if float(v[4]) < min_pct:
         continue
-    if v[6] not in clusters:
-        clusters[v[6]] = list()
-    clusters[v[6]].append(v[0])
+    if v[7] not in clusters:
+        clusters[v[7]] = list()
+    clusters[v[7]].append(v[0])
     gene_count = gene_count + 1
     #print(v[6], v[0])
-
-#print(clusters)
 
 # get cycling genes in list
 cy = open(cycling)

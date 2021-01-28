@@ -1,0 +1,19 @@
+id	desc
+Smp_004780	Peptidylprolyl isomerase
+Smp_008900	Putative eukaryotic translation initiation factor 4 gamma
+Smp_020800	Cysteine and histidine-rich domain (Chord)-containing, zinc binding protein, putative
+Smp_049550	Putative heat shock protein 70 (Hsp70)
+Smp_049600	Putative DNAj (Hsp40) homolog, subfamily C, member
+Smp_064860	Putative heat shock protein 70 (Hsp70)-interacting protein
+Smp_069130	Heat shock protein 70 (Hsp70)-4, putative
+Smp_083080	
+Smp_088950	Hypoxia upregulated 1 (Hyou1)-related
+Smp_113620	Putative serine/arginine rich splicing factor
+Smp_124820	Putative chromosome region maintenance protein 1/exportin
+Smp_145560	Putative oxalate:formate antiporter
+Smp_157070	Cysteine-rich with egf-like domains protein
+Smp_172110	Putative shc transforming protein
+Smp_214080	
+Smp_246230	
+Smp_333170	85 kD calcium-independent phospholipase A2 (Ipla2), putative
+Smp_336770	Putative dnaj homolog subfamily B member 4

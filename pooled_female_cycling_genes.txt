@@ -1,0 +1,99 @@
+id	desc
+Smp_000070	1-acyl-sn-glycerol-3-phosphate acyltransferase
+Smp_000260	Saposin containing protein
+Smp_004200	
+Smp_004780	Peptidylprolyl isomerase
+Smp_004990	Putative chaperonin containing t-complex protein 1, zeta subunit, tcpz
+Smp_005010	Chitobiosyldiphosphodolichol alpha-mannosyltransferase
+Smp_008545	Heat shock protein HSP60, putative
+Smp_013860	Glutamate-cysteine ligase
+Smp_019620	
+Smp_020800	Cysteine and histidine-rich domain (Chord)-containing, zinc binding protein, putative
+Smp_020920	Putative dnaj homolog subfamily B member 4
+Smp_023250	
+Smp_024000	Putative vacuolar protein sorting (Vps33)
+Smp_026160	Putative growth hormone inducible transmembrane protein
+Smp_030760	NADPH--cytochrome P450 reductase
+Smp_033930	Phosphatidylcholine transfer protein, putative
+Smp_035200	Putative hsp40, subfamily A, members 1,2,4
+Smp_036630	Putative spry domain containing socs box protein
+Smp_038420	
+Smp_044850	Ribokinase
+Smp_045400	
+Smp_049150	Aspartate aminotransferase
+Smp_049990	Casp, putative
+Smp_052740	Putative gamma-soluble nsf attachment protein (Snap)
+Smp_054300	Putative alpha(1,3)fucosyltransferase
+Smp_055990	Adenylosuccinate synthetase
+Smp_064860	Putative heat shock protein 70 (Hsp70)-interacting protein
+Smp_067900	Cdc37-related
+Smp_069130	Heat shock protein 70 (Hsp70)-4, putative
+Smp_072330	Putative heat shock protein
+Smp_075440	
+Smp_083080	
+Smp_083130	Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase
+Smp_083380	
+Smp_083650	Putative cystathionine beta-lyase
+Smp_083780	Putative ku P80 DNA helicase
+Smp_084940	Putative gtp-binding protein rit
+Smp_093800	
+Smp_097590	Valine-tRNA ligase
+Smp_102960	Nebula, putative
+Smp_123050	Putative regulator of G protein signaling 17, 19, 20 (Rgs17, 19, 20)
+Smp_124030	
+Smp_124820	Putative chromosome region maintenance protein 1/exportin
+Smp_129610	Putative malate dehydrogenase
+Smp_129630	tRNA pseudouridine synthase D, putative
+Smp_129900	Putative sodium-dependent neurotransmitter transporter
+Smp_130280	Cell polarity protein
+Smp_131000	Harp (Smarcal1)-related
+Smp_135390	
+Smp_139720	Putative zinc transporter
+Smp_141220	Conserved oligomeric Golgi complex subunit 6
+Smp_141930	
+Smp_142010	Methionine aminopeptidase
+Smp_144770	
+Smp_145510	Putative shoc2
+Smp_148070	
+Smp_150200	Putative mannosyltransferase
+Smp_154320	DEAD box ATP-dependent RNA helicase, putative
+Smp_159090	
+Smp_160180	
+Smp_160870	Putative aaa family ATPase
+Smp_162910	Related to multifunctional cyclin-dependent kinase-related
+Smp_163330	
+Smp_163750	Putative otoferlin
+Smp_167950	
+Smp_169610	Palmitoyltransferase
+Smp_172730	Aldehyde dehydrogenase
+Smp_179270	Putative heterogeneous nuclear ribonucleoprotein (Hnrnp)
+Smp_180390	Putative mitochondrial carrier
+Smp_191160	
+Smp_196090	Putative tgf-beta receptor
+Smp_210340	Putative chromatin regulatory protein sir2; Sirtuin 6
+Smp_211050	Acylaminoacyl-peptidase (S09 family)
+Smp_213290	
+Smp_214080	
+Smp_244190	
+Smp_244690	
+Smp_244750	
+Smp_245920	
+Smp_246450	
+Smp_247020	
+Smp_306990	
+Smp_308930	
+Smp_310180	
+Smp_312920	
+Smp_319380	
+Smp_323570	
+Smp_326610	
+Smp_334710	
+Smp_336770	Putative dnaj homolog subfamily B member 4
+Smp_337340	
+Smp_337530	
+Smp_340010	
+Smp_341360	
+Smp_342000	
+Smp_345040	
+Smp_345310	
+Smp_347460	

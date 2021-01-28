@@ -1,0 +1,142 @@
+id	desc
+Smp_000200	
+Smp_001020	Adenine DNA glycosylase
+Smp_004780	Peptidylprolyl isomerase
+Smp_004990	Putative chaperonin containing t-complex protein 1, zeta subunit, tcpz
+Smp_005010	Chitobiosyldiphosphodolichol alpha-mannosyltransferase
+Smp_007550	Leukotriene A4 hydrolase (M01 family)
+Smp_008900	Putative eukaryotic translation initiation factor 4 gamma
+Smp_013790	DEAD box ATP-dependent RNA helicase, putative
+Smp_013860	Glutamate-cysteine ligase
+Smp_013950	Selectively expressed in embryonic epithelia protein-1, putative
+Smp_015780	Putative atpase n2b
+Smp_018260	Glycogen
+Smp_020800	Cysteine and histidine-rich domain (Chord)-containing, zinc binding protein, putative
+Smp_022450	
+Smp_023250	
+Smp_026700	tRNA-dihydrouridine synthase, putative
+Smp_030760	NADPH--cytochrome P450 reductase
+Smp_031920	
+Smp_032320	Putative serine/arginine rich splicing factor
+Smp_033530	Putative carbonyl reductase
+Smp_035030	Putative atp-dependent RNA helicase
+Smp_035200	Putative hsp40, subfamily A, members 1,2,4
+Smp_039490	
+Smp_040100	
+Smp_040770	Putative methionine-tRNA synthetase
+Smp_042400	
+Smp_043350	UDP-n-acetylglucosamine pyrophosphorylase
+Smp_044550	Putative far upstream (Fuse) binding protein
+Smp_049550	Putative heat shock protein 70 (Hsp70)
+Smp_049600	Putative DNAj (Hsp40) homolog, subfamily C, member
+Smp_050730	
+Smp_053390	Histone H4
+Smp_054230	
+Smp_055220	Putative surface protein PspC
+Smp_058530	
+Smp_061100	
+Smp_062980	Tetraspanin
+Smp_064860	Putative heat shock protein 70 (Hsp70)-interacting protein
+Smp_066760	Putative merlin/moesin/ezrin/radixin
+Smp_067900	Cdc37-related
+Smp_069130	Heat shock protein 70 (Hsp70)-4, putative
+Smp_070780	UDP-glucose 4-epimerase
+Smp_072900	Hsp90 co-chaperone (Tebp), putative
+Smp_074010	Putative 8-oxoguanine DNA glycosylase
+Smp_075000	
+Smp_079420	Putative ank repeat-containing
+Smp_080280	Putative tfiia large subunit
+Smp_083080	
+Smp_084940	Putative gtp-binding protein rit
+Smp_088950	Hypoxia upregulated 1 (Hyou1)-related
+Smp_093630	Mitochondrial carrier protein-related
+Smp_094630	
+Smp_095630	Tetraspanin
+Smp_095650	
+Smp_103990	
+Smp_104980	Putative phd finger protein
+Smp_106060	Mitochondrial carrier protein-related
+Smp_113620	Putative serine/arginine rich splicing factor
+Smp_123050	Putative regulator of G protein signaling 17, 19, 20 (Rgs17, 19, 20)
+Smp_123540	Venom allergen-like (VAL) protein 12; Venom allergen-like (VAL) protein 12; Venom allergen-like protein 12; Venom allergen-like protein 12
+Smp_124650	
+Smp_124770	Protein kinase
+Smp_124820	Putative chromosome region maintenance protein 1/exportin
+Smp_127430	Smp_127430
+Smp_129320	Cell division control protein, putative
+Smp_129610	Putative malate dehydrogenase
+Smp_129630	tRNA pseudouridine synthase D, putative
+Smp_134250	Putative heparan sulfate n-deacetylase/n-sulfotransferase
+Smp_138200	
+Smp_140440	
+Smp_141610	Cathepsin B endopeptidase; Cathepsin B endopeptidase; SmCB2 peptidase (C01 family); SmCB2 peptidase (C01 family)
+Smp_142510	Putative ribonuclease III
+Smp_143310	
+Smp_144490	N-acetyltransferase-related
+Smp_144770	
+Smp_150200	Putative mannosyltransferase
+Smp_150510	Putative wipi-2
+Smp_153460	Putative monoxygenase
+Smp_153660	Cyclin d, putative
+Smp_158740	
+Smp_159510	
+Smp_160870	Putative aaa family ATPase
+Smp_162910	Related to multifunctional cyclin-dependent kinase-related
+Smp_163260	
+Smp_163330	
+Smp_164860	
+Smp_165170	Putative transient receptor potential cation channel,subfamily m, member
+Smp_165540	Peptidyl-prolyl cis-trans isomerase-like 4. ppil4
+Smp_167630	Solute carrier family, putative
+Smp_168730	Putative carbonic anhydrase
+Smp_169140	
+Smp_169870	Putative cystinosin
+Smp_170800	Putative cysteinyl-tRNA synthetase
+Smp_171120	Putative udp-galactose transporter
+Smp_172110	Putative shc transforming protein
+Smp_172280	Serine/threonine protein phosphatase 2a regulatory subunit A, putative
+Smp_172730	Aldehyde dehydrogenase
+Smp_175310	
+Smp_179270	Putative heterogeneous nuclear ribonucleoprotein (Hnrnp)
+Smp_180390	Putative mitochondrial carrier
+Smp_191160	
+Smp_200180	Dynein light chain
+Smp_203410	
+Smp_210530	Putative tyrosyl-DNA phosphodiesterase
+Smp_211060	Acylaminoacyl-peptidase (S09 family)
+Smp_213930	
+Smp_214080	
+Smp_244750	
+Smp_246230	
+Smp_247020	
+Smp_267080	
+Smp_304840	O-linked n-acetylglucosamine transferase, ogt,putative
+Smp_304910	
+Smp_306990	
+Smp_307450	
+Smp_316730	
+Smp_317550	Arginine/serine-rich splicing factor, putative
+Smp_319760	
+Smp_323570	
+Smp_324960	
+Smp_327240	
+Smp_327260	
+Smp_327270	
+Smp_328570	
+Smp_329920	
+Smp_332310	Regulator of G protein signaling 3, rgs3,putative
+Smp_332680	
+Smp_334010	
+Smp_334250	
+Smp_336770	Putative dnaj homolog subfamily B member 4
+Smp_340190	
+Smp_340530	
+Smp_340940	
+Smp_341360	
+Smp_341660	Quiescin q6-related sulfhydryl oxidase
+Smp_343630	
+Smp_343910	
+Smp_345340	
+Smp_346180	
+Smp_346800	
+Smp_346930	
